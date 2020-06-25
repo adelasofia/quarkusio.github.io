@@ -3,281 +3,147 @@
 
     <channel>
         <title>Quarkus</title>
-        <link>https://quarkus.io/</link>
+        <link></link>
         <description>Quarkus: Supersonic Subatomic Java</description>
-        <lastBuildDate>Thu, 31 Oct 2019 10:21:37 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2020 17:08:14 +0000</lastBuildDate>
         
         <item>
-            <title>Quarkus Tools for Visual Studio Code - 1.1.0 release</title>
+            <title>Quarkus 1.5.2.Final released - Bugfixes</title>
             <link>
-                https://quarkus.io//blog/vscode-quarkus-1.1.0/
+                /blog/quarkus-1-5-2-final-released/
             </link>
             <description>
-                
-What’s new with Quarkus Tools for Visual Studio Code
-
-
-The 1.1.0 release of Quarkus Tools for Visual Studio Code
-offers more language features for the application.properties file and new additions to existing
-features like validation and snippets support.
-
-
-For a list of all changes, please refer to the changelog.
-
-
-
-
-New features
-
-
-
-
-Value type validation for application.properties
-
-
-Go to de...
+                Today, we released Quarkus 1.5.2.Final with some bugfixes and documentation improvements. It is a safe upgrade for everyone using 1.5.0.Final or 1.5.1.Final. What&#8217;s new? We fixed two important regressions: The IDE launcher is back on track. In 1.5, we tweaked how the Hibernate ORM Panache enhancement works and that might...
             </description>
-            <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/vscode-quarkus-1.1.0/
+                /blog/quarkus-1-5-2-final-released/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus 0.27.0 released - More Amazon Lambda goodness</title>
+            <title>Quarkus Global Hackathon</title>
             <link>
-                https://quarkus.io//blog/quarkus-0-27-0-released/
+                /blog/quarkus-hackathon-announcement/
             </link>
             <description>
-                
-Another week, another release, this time with a focus on Amazon Lambda, usability and bugfixes.
-
-
-
-
-
-
-
-
-
-If you are generating native images, the recommended version of GraalVM is now 19.2.1 so please upgrade!
-
-
-
-
-
-
-What&#8217;s new?
-
-
-Amazon Lambda
-
-We were hard at work to get the Amazon Lambda features on par with the Azure Functions ones. You can now use traditional Lambdas or RESTEasy/JAX-...
+                The Quarkus community is excited to announce the Supersonic, Subatomic Java Hackathon for developers to create Kubernetes-native applications for a chance to win $30,000 in prizes. This hackathon is a great opportunity to learn about the future of cloud-native Java development and showcase your coding skills. The Quarkus community and...
             </description>
-            <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-0-27-0-released/
+                /blog/quarkus-hackathon-announcement/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus 0.26.1 released - Stabilizing things and adding Vault support</title>
+            <title>Quarkus 1.5.1.Final released - Bugfixes</title>
             <link>
-                https://quarkus.io//blog/quarkus-0-26-1-released/
+                /blog/quarkus-1-5-1-final-released/
             </link>
             <description>
-                
-Keeping the rapid pace of one release per week, here comes Quarkus 0.26.1.
-
-
-Thanks a lot to the community at large for the useful bug reports, that helps a lot in stabilizing the new HTTP and security layers. Keep them coming.
-
-
-Apart from bugfixes, the new big thing in 0.26.1 is an extension adding support for HashiCorp Vault.
-
-
-
-
-
-
-
-
-
-The recommended version of GraalVM is still 19.2.0.1 as ...
+                Today, we released Quarkus 1.5.1.Final with some bugfixes and documentation improvements. It is a safe upgrade for everyone using 1.5.0.Final. What&#8217;s new? You can get the full changelog of 1.5.1.Final on GitHub. Come Join Us We value your feedback a lot so please report bugs, ask for improvements&#8230;&#8203; Let&#8217;s build...
             </description>
-            <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-0-26-1-released/
+                /blog/quarkus-1-5-1-final-released/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus 0.25.0 released - Security layer updated</title>
+            <title>Quarkus Insights #4 and #5: JHipster and Quarkify</title>
             <link>
-                https://quarkus.io//blog/quarkus-0-25.0-released/
+                /blog/insights-4-5/
             </link>
             <description>
-                
-Just a few days after 0.24.0, and to stay in line with our planning, we release 0.25.0.
-
-
-This release fixes a couple of issues, mostly related to the new HTTP layer and brings some updates to the currently being rewritten security layer.
-
-
-What&#8217;s new?
-
-
-Security layer changes
-
-HTTP based permissions can now be defined in the application.properties.
-
-
-This new feature is fully documented...
+                We got two more Quarkus insights up and ready. #4 about JHipster for Quarkus with Daniel Petisme and #5 on Quarkify with Dmitry Chaban. Next Episode(s) On Tuesday June 9th 05:00 EST / 11:00 CEST / 14:30 IST we will do Quarkus Insights #6: GraalVM and Mandrel with Andrew Dinn....
             </description>
-            <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-0-25.0-released/
+                /blog/insights-4-5/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus on JBoss Asylum Podcast</title>
+            <title>Quarkus 1.5 released - fast-jar packaging format, Picocli, gRPC, GraphQL and more</title>
             <link>
-                https://quarkus.io//blog/quarkus-on-jboss-asylum-podcast/
+                /blog/quarkus-1-5-final-released/
             </link>
             <description>
-                
-Last week in a hotel room in Boston I managed to get Jason, Emmanuel and Bill from the Quarkus team to sit down and record episode #46 of JBoss Asylum.
-
-
-The episode is called "Quarkus to the bones" where we all four go into the details on the why and how on how Quarkus was created and what it is good for - all while having a bit of fun.
-
-
-The episode is posted on JBoss Community Asylum and al...
+                Quarkus 1.5.0.Final is finally here with all sorts of bells and whistles: New fast-jar packaging format Picocli extension gRPC extension Eclipse MicroProfile GraphQL extension Amazon Services extensions Hibernate ORM REST Data with Panache extension Spring Cache compatibility layer It also includes a lot of bugfixes and small improvements all over...
             </description>
-            <pubDate>Mon, 14 Oct 2019 22:06:00 +0000</pubDate>
+            <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-on-jboss-asylum-podcast/
+                /blog/quarkus-1-5-final-released/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus 0.24.0 released - Vert.x everywhere</title>
+            <title>Quarkus Insights #3: Hibernate with Panache</title>
             <link>
-                https://quarkus.io//blog/quarkus-0-24.0-released/
+                /blog/insights-3/
             </link>
             <description>
-                
-Due to serious outages of the OSS Sontype (our gate to Maven Central), we were unable to release as planned but&#8230;&#8203; here we are, 0.24.0 is out!
-
-
-This one is built on top of the shoulders of 0.23 to move more things to our new Vert.x based HTTP layer. It also introduces big changes to our security layer.
-
-
-What&#8217;s new?
-
-
-Servlet no longer required for JAX-RS
-
-This means that if ...
+                Monday we did Quarkus Insights episode #3: Hibernate Panache with Stéphane through what Panache is, why it is awesome and how you get the most out of it. Podcast feed If you prefer to listen to these in podcast format they are now available from Apple Podcasts and should shouw...
             </description>
-            <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-0-24.0-released/
+                /blog/insights-3/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus 0.23.2 released - Back on track</title>
+            <title>Quarkus Insights #2: quarkus:dev and Command mode</title>
             <link>
-                https://quarkus.io//blog/quarkus-0-23-2-released/
+                /blog/insights-2/
             </link>
             <description>
-                
-Last week, we released Quarkus 0.23.1 which paved the way towards our new Vert.x based HTTP layer and brought a lot of new features (see the original announcement post for all the details).
-We discovered a memory usage regression shortly after the release: it was not a memory leak or anything that bad but an increased memory usage due to Netty getting a bit too comfortable.
-
-
-Today, we release...
+                This week Quarkus Insights #2 was live and recorded with Stuart showing command mode and talking about the inner workings of quarkus:dev. Plus a nice surprise just implemented. Next Episode On Monday May 18th 15:00 CEST / 18:30 IST / 09:00 EST we will do Quarkus Insights episode #3: Hibernate...
             </description>
-            <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-0-23-2-released/
+                /blog/insights-2/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus Newsletter #1</title>
+            <title>Ideas on Quarkus command-mode, UI-based apps and releasing via Github Actions</title>
             <link>
-                https://quarkus.io//blog/quarkus-newsletter-1/
+                /blog/native-command-mode-tools/
             </link>
             <description>
-                
-Welcome to the first episode of the Quarkus Newsletter. This is where we&#8217;ll post about new found publications related to Quarkus.
-
-
-If you feel something is missing or have an article coming out for future Quarkus Newsletter posts please open an issue with a short description and a url.
-
-
-In this first edition I&#8217;ve gathered list of interesting publications since the launch of Quark...
+                Quarkus is advertised as a cloud-native runtime for Microservices but the introduction of command-mode might have opened up new and interesting spaces where it could find adoption. In this blog post I will present a few ideas about the possible usage of command-mode in Quarkus that you might find useful...
             </description>
-            <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-newsletter-1/
+                /blog/native-command-mode-tools/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus 0.23.1 released - Paving the way to our new HTTP layer</title>
+            <title>Quarkus Insights #1: Tests</title>
             <link>
-                https://quarkus.io//blog/quarkus-0-23-1-released/
+                /blog/insights-1/
             </link>
             <description>
-                
-
-
-
-
-
-
-
-DO NOT USE 0.23.1 - PLEASE USE 0.23.2.
-
-
-We found a major memory regression in 0.23.1, we urge you to not use it and use 0.23.2 instead.
-
-
-
-
-
-
-We just released Quarkus 0.23.1.
-This version is an important milestone for us as it materializes one of our major objectives: relying on Vert.x for our entire HTTP layer.
-It also comes with a lot of improvements and bugfixes contributed by our v...
+                Monday we went live with Quarkus Insights #1: Testing with Georgios showing and talking about all things Testing. Especially showing the new Mockito integration and examples of TestContainer usage. The code he shows are at https://github.com/geoand/quarkus-test-demo and below are a transcript (Thanks Markus!). Next Episode On Tusday May 12th 11:15...
             </description>
-            <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-0-23-1-released/
+                /blog/insights-1/
             </guid>
         </item>
         
         <item>
-            <title>Quarkus developer joy for VS Code</title>
+            <title>Quarkus Newsletter #6</title>
             <link>
-                https://quarkus.io//blog/quarkus-developer-joy-for-vs-code/
+                /blog/quarkus-newsletter-6/
             </link>
             <description>
-                
-Earlier this year, we have been introduced to Quarkus, the next-generation, container-first framework for Java applications.
-As expected, such new frameworks and technologies make way for new developer tools focused on making
-the development experience even better.
-The recent Quarkus Tools for Visual Studio Code release
-aims to do just that,
-by bringing features specific to Quarkus project dev...
+                Welcome to #6, better late than never! Its been a busy time, with releases, Red Hat Summit and other virtual events. Noone stood still and this months list of news shows things are moving fast. In addittion to the newsletter we started Quarkusio Insights Live which is a live video...
             </description>
-            <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                https://quarkus.io//blog/quarkus-developer-joy-for-vs-code/
+                /blog/quarkus-newsletter-6/
             </guid>
         </item>
         
