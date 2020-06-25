@@ -3,147 +3,147 @@
 
     <channel>
         <title>Quarkus</title>
-        <link></link>
+        <link>https://adelasofia.github.io/quarkusio.github.io/</link>
         <description>Quarkus: Supersonic Subatomic Java</description>
-        <lastBuildDate>Thu, 25 Jun 2020 17:19:54 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2020 17:24:28 +0000</lastBuildDate>
         
         <item>
             <title>Quarkus 1.5.2.Final released - Bugfixes</title>
             <link>
-                /blog/quarkus-1-5-2-final-released/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-1-5-2-final-released/
             </link>
             <description>
                 Today, we released Quarkus 1.5.2.Final with some bugfixes and documentation improvements. It is a safe upgrade for everyone using 1.5.0.Final or 1.5.1.Final. What&#8217;s new? We fixed two important regressions: The IDE launcher is back on track. In 1.5, we tweaked how the Hibernate ORM Panache enhancement works and that might...
             </description>
             <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/quarkus-1-5-2-final-released/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-1-5-2-final-released/
             </guid>
         </item>
         
         <item>
             <title>Quarkus Global Hackathon</title>
             <link>
-                /blog/quarkus-hackathon-announcement/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-hackathon-announcement/
             </link>
             <description>
                 The Quarkus community is excited to announce the Supersonic, Subatomic Java Hackathon for developers to create Kubernetes-native applications for a chance to win $30,000 in prizes. This hackathon is a great opportunity to learn about the future of cloud-native Java development and showcase your coding skills. The Quarkus community and...
             </description>
             <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/quarkus-hackathon-announcement/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-hackathon-announcement/
             </guid>
         </item>
         
         <item>
             <title>Quarkus 1.5.1.Final released - Bugfixes</title>
             <link>
-                /blog/quarkus-1-5-1-final-released/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-1-5-1-final-released/
             </link>
             <description>
                 Today, we released Quarkus 1.5.1.Final with some bugfixes and documentation improvements. It is a safe upgrade for everyone using 1.5.0.Final. What&#8217;s new? You can get the full changelog of 1.5.1.Final on GitHub. Come Join Us We value your feedback a lot so please report bugs, ask for improvements&#8230;&#8203; Let&#8217;s build...
             </description>
             <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/quarkus-1-5-1-final-released/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-1-5-1-final-released/
             </guid>
         </item>
         
         <item>
             <title>Quarkus Insights #4 and #5: JHipster and Quarkify</title>
             <link>
-                /blog/insights-4-5/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-4-5/
             </link>
             <description>
                 We got two more Quarkus insights up and ready. #4 about JHipster for Quarkus with Daniel Petisme and #5 on Quarkify with Dmitry Chaban. Next Episode(s) On Tuesday June 9th 05:00 EST / 11:00 CEST / 14:30 IST we will do Quarkus Insights #6: GraalVM and Mandrel with Andrew Dinn....
             </description>
             <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/insights-4-5/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-4-5/
             </guid>
         </item>
         
         <item>
             <title>Quarkus 1.5 released - fast-jar packaging format, Picocli, gRPC, GraphQL and more</title>
             <link>
-                /blog/quarkus-1-5-final-released/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-1-5-final-released/
             </link>
             <description>
                 Quarkus 1.5.0.Final is finally here with all sorts of bells and whistles: New fast-jar packaging format Picocli extension gRPC extension Eclipse MicroProfile GraphQL extension Amazon Services extensions Hibernate ORM REST Data with Panache extension Spring Cache compatibility layer It also includes a lot of bugfixes and small improvements all over...
             </description>
             <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/quarkus-1-5-final-released/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-1-5-final-released/
             </guid>
         </item>
         
         <item>
             <title>Quarkus Insights #3: Hibernate with Panache</title>
             <link>
-                /blog/insights-3/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-3/
             </link>
             <description>
                 Monday we did Quarkus Insights episode #3: Hibernate Panache with Stéphane through what Panache is, why it is awesome and how you get the most out of it. Podcast feed If you prefer to listen to these in podcast format they are now available from Apple Podcasts and should shouw...
             </description>
             <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/insights-3/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-3/
             </guid>
         </item>
         
         <item>
             <title>Quarkus Insights #2: quarkus:dev and Command mode</title>
             <link>
-                /blog/insights-2/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-2/
             </link>
             <description>
                 This week Quarkus Insights #2 was live and recorded with Stuart showing command mode and talking about the inner workings of quarkus:dev. Plus a nice surprise just implemented. Next Episode On Monday May 18th 15:00 CEST / 18:30 IST / 09:00 EST we will do Quarkus Insights episode #3: Hibernate...
             </description>
             <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/insights-2/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-2/
             </guid>
         </item>
         
         <item>
             <title>Ideas on Quarkus command-mode, UI-based apps and releasing via Github Actions</title>
             <link>
-                /blog/native-command-mode-tools/
+                https://adelasofia.github.io/quarkusio.github.io//blog/native-command-mode-tools/
             </link>
             <description>
                 Quarkus is advertised as a cloud-native runtime for Microservices but the introduction of command-mode might have opened up new and interesting spaces where it could find adoption. In this blog post I will present a few ideas about the possible usage of command-mode in Quarkus that you might find useful...
             </description>
             <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/native-command-mode-tools/
+                https://adelasofia.github.io/quarkusio.github.io//blog/native-command-mode-tools/
             </guid>
         </item>
         
         <item>
             <title>Quarkus Insights #1: Tests</title>
             <link>
-                /blog/insights-1/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-1/
             </link>
             <description>
                 Monday we went live with Quarkus Insights #1: Testing with Georgios showing and talking about all things Testing. Especially showing the new Mockito integration and examples of TestContainer usage. The code he shows are at https://github.com/geoand/quarkus-test-demo and below are a transcript (Thanks Markus!). Next Episode On Tusday May 12th 11:15...
             </description>
             <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/insights-1/
+                https://adelasofia.github.io/quarkusio.github.io//blog/insights-1/
             </guid>
         </item>
         
         <item>
             <title>Quarkus Newsletter #6</title>
             <link>
-                /blog/quarkus-newsletter-6/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-newsletter-6/
             </link>
             <description>
                 Welcome to #6, better late than never! Its been a busy time, with releases, Red Hat Summit and other virtual events. Noone stood still and this months list of news shows things are moving fast. In addittion to the newsletter we started Quarkusio Insights Live which is a live video...
             </description>
             <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
             <guid>
-                /blog/quarkus-newsletter-6/
+                https://adelasofia.github.io/quarkusio.github.io//blog/quarkus-newsletter-6/
             </guid>
         </item>
         
